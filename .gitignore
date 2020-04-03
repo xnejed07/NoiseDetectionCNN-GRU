@@ -1,6 +1,8 @@
-./DATASET_FNUSA
-./DATASET_MAYO
+.DATASET_FNUSA/
+.DATASET_MAYO/
 
 .DS_Store
 
 .idea/
+
+__pycache__/
