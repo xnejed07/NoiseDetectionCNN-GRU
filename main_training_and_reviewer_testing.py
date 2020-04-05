@@ -11,7 +11,6 @@ from dataset import *
 from statistics import *
 from torch.utils.data import DataLoader
 
-
 # create training and validation dataset
 # split_reviewer(reviewer_id) function split dataset by reviewers
 # results should be evaluated for all reviewers i.e. 1,2,3
