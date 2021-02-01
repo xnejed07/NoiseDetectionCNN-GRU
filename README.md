@@ -8,5 +8,9 @@ Code example for data loading pipeline and CNN-GRU neural network model training
 3. pip install requirements.txt
 
 # References:
-1. This will be updated after paper is published
+Nejedly, P., Kremen, V., Sladky, V. et al. Multicenter intracranial EEG dataset for classification of graphoelements and artifactual signals. Sci Data 7, 179 (2020). https://doi.org/10.1038/s41597-020-0532-5
+
+Nejedly, P., Cimbalnik, J., Klimes, P. et al. Intracerebral EEG Artifact Identification Using Convolutional Neural Networks. Neuroinform (2018). https://doi.org/10.1007/s12021-018-9397-6
+
+Nejedly, P., Kremen, V., Sladky, V. et al. Exploiting Graphoelements and Convolutional Neural Networks with Long Short Term Memory for Classification of the Human Electroencephalogram. Sci Rep 9, 11383 (2019). https://doi.org/10.1038/s41598-019-47854-6
 
